@@ -1,0 +1,5 @@
+{
+    "ksql.url": "http://10.100.117.53:8088",
+    "kafka.hosts": "10.100.117.53:9092",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

@@ -1,0 +1,3 @@
+sudo mount.cifs //172.16.115.58/metpush /media/share/metpush -o user=jchen
+bin/connect-standalone.sh baaqmd/config/metpush-connect-standalone.properties baaqmd/config/metpush.properties 
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic met-push --from-beginning

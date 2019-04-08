@@ -1,0 +1,10 @@
+{
+	"name": "met-push",
+	"tasks.max": 1,
+	"connector.class": "gov.baaqmd.kafka.connect.directory.DirectorySourceConnector",
+	"schema.name": "directory_schema",
+	"topic": "met-push",
+	"check.dir.ms": 1000,
+	"file.ext": ".dat",
+	"directories.paths": "/media/share/metpush",
+}

@@ -1,0 +1,1 @@
+bin/connect-standalone.sh baaqmd/config/metpush-connect-standalone.properties baaqmd/config/metpush.properties

@@ -1,0 +1,7 @@
+gov\baaqmd\kafka\connect\utils\DirFilterWatcher.class
+gov\baaqmd\kafka\connect\directory\DirectorySourceTask.class
+gov\baaqmd\kafka\connect\directory\DirectorySourceConnector.class
+gov\baaqmd\kafka\connect\directory\DirectorySourceTask$1.class
+gov\baaqmd\kafka\connect\utils\DirWatcher.class
+gov\baaqmd\kafka\connect\utils\ReadDatFile.class
+gov\baaqmd\kafka\connect\utils\StringUtils.class
